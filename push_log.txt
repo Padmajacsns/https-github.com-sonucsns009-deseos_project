@@ -1,0 +1,4824 @@
+---------------------------------------------------
+ 2021-09-27 12:24:09 
+ Array
+(
+    [0] => {"multicast_id":6731378553787755046,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:10 
+ Array
+(
+    [0] => {"multicast_id":5129697346802290201,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1632745452965855%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:10 
+ Array
+(
+    [0] => {"multicast_id":1117393975462364545,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1632745453152867%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:10 
+ Array
+(
+    [0] => {"multicast_id":1097476471991974986,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1632745453340259%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:10 
+ Array
+(
+    [0] => {"multicast_id":6364803026605567937,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1632745453524506%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:10 
+ Array
+(
+    [0] => {"multicast_id":5140224826782512384,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1632745453714278%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:11 
+ Array
+(
+    [0] => {"multicast_id":309349874961128940,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:11 
+ Array
+(
+    [0] => {"multicast_id":7511712599993796281,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:11 
+ Array
+(
+    [0] => {"multicast_id":5199069020228755199,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1632745454242625%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:11 
+ Array
+(
+    [0] => {"multicast_id":1810877380302009521,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:11 
+ Array
+(
+    [0] => {"multicast_id":2280629832976801743,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:12 
+ Array
+(
+    [0] => {"multicast_id":6155113217323808601,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1632745454800831%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:12 
+ Array
+(
+    [0] => {"multicast_id":4123880753880696501,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1632745454991258%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:12 
+ Array
+(
+    [0] => {"multicast_id":4517692793408641789,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:12 
+ Array
+(
+    [0] => {"multicast_id":996266147732562386,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:12 
+ Array
+(
+    [0] => {"multicast_id":337163660166894697,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1632745455512462%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:12 
+ Array
+(
+    [0] => {"multicast_id":811501784115272212,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:13 
+ Array
+(
+    [0] => {"multicast_id":4636676874656704193,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:13 
+ Array
+(
+    [0] => {"multicast_id":5049100873955359709,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1632745456071185%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:13 
+ Array
+(
+    [0] => {"multicast_id":1492139744927985885,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:13 
+ Array
+(
+    [0] => {"multicast_id":3039205296723658024,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:13 
+ Array
+(
+    [0] => {"multicast_id":7114209271430330185,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:13 
+ Array
+(
+    [0] => {"multicast_id":1952121829358951357,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:14 
+ Array
+(
+    [0] => {"multicast_id":7092038029168589163,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1632745456921113%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:14 
+ Array
+(
+    [0] => {"multicast_id":8924239731495091806,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1632745457116803%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:14 
+ Array
+(
+    [0] => {"multicast_id":8862824498325569392,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1632745457369085%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:14 
+ Array
+(
+    [0] => {"multicast_id":2710623029419332764,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1632745457553018%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:14 
+ Array
+(
+    [0] => {"multicast_id":1056167725928225678,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1632745457739986%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:15 
+ Array
+(
+    [0] => {"multicast_id":7049843257261508060,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1632745457913522%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:15 
+ Array
+(
+    [0] => {"multicast_id":7951814013512973999,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1632745458094040%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:15 
+ Array
+(
+    [0] => {"multicast_id":405912635997742860,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1632745458266142%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:15 
+ Array
+(
+    [0] => {"multicast_id":781957157595429706,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:15 
+ Array
+(
+    [0] => {"multicast_id":7191470693141702252,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:15 
+ Array
+(
+    [0] => {"multicast_id":8820060444510065207,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:16 
+ Array
+(
+    [0] => {"multicast_id":5577869639752258907,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1632745458974439%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:16 
+ Array
+(
+    [0] => {"multicast_id":2143982088775085452,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:16 
+ Array
+(
+    [0] => {"multicast_id":7593798421856151130,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:16 
+ Array
+(
+    [0] => {"multicast_id":6617266989058393485,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1632745459499789%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-09-27 12:24:16 
+ Array
+(
+    [0] => {"multicast_id":3727192532378191139,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hello Deseos Customer
+    [noti_message] => Hello to all customer, for happy shopping
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:16 
+ Array
+(
+    [0] => {"multicast_id":29971731535801022,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329798398231%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:17 
+ Array
+(
+    [0] => {"multicast_id":8503391817425475820,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329798579001%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:17 
+ Array
+(
+    [0] => {"multicast_id":283421917483208437,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:17 
+ Array
+(
+    [0] => {"multicast_id":7491975641312462943,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329798965304%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:17 
+ Array
+(
+    [0] => {"multicast_id":6939045786156862622,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329799155713%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:17 
+ Array
+(
+    [0] => {"multicast_id":4222264026771286620,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:18 
+ Array
+(
+    [0] => {"multicast_id":9144172269386478627,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:18 
+ Array
+(
+    [0] => {"multicast_id":8396432061676071748,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:18 
+ Array
+(
+    [0] => {"multicast_id":9033465618250520682,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:18 
+ Array
+(
+    [0] => {"multicast_id":6423529021436453292,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:18 
+ Array
+(
+    [0] => {"multicast_id":590923535130648948,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329800231884%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:19 
+ Array
+(
+    [0] => {"multicast_id":6481080896052758209,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:19 
+ Array
+(
+    [0] => {"multicast_id":7730523255538995231,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:19 
+ Array
+(
+    [0] => {"multicast_id":5306035177236235969,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:19 
+ Array
+(
+    [0] => {"multicast_id":175209654630471404,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:19 
+ Array
+(
+    [0] => {"multicast_id":5167544997138844571,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:19 
+ Array
+(
+    [0] => {"multicast_id":1348883575402397555,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329801366359%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:20 
+ Array
+(
+    [0] => {"multicast_id":2658246937053891828,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:20 
+ Array
+(
+    [0] => {"multicast_id":2199067782855892031,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:20 
+ Array
+(
+    [0] => {"multicast_id":6280292249671365017,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329802216517%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:21 
+ Array
+(
+    [0] => {"multicast_id":4156038544697184867,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329802439573%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:21 
+ Array
+(
+    [0] => {"multicast_id":4545801468853210541,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329802647337%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:21 
+ Array
+(
+    [0] => {"multicast_id":4387574476277540225,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:21 
+ Array
+(
+    [0] => {"multicast_id":6660030894218558190,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:21 
+ Array
+(
+    [0] => {"multicast_id":7724342213420649818,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:21 
+ Array
+(
+    [0] => {"multicast_id":62941891295891165,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:22 
+ Array
+(
+    [0] => {"multicast_id":6012413033045289918,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:22 
+ Array
+(
+    [0] => {"multicast_id":4666006809490412821,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:22 
+ Array
+(
+    [0] => {"multicast_id":267054654832597153,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329804013065%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:22 
+ Array
+(
+    [0] => {"multicast_id":4605100669492294071,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329804215335%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:23 
+ Array
+(
+    [0] => {"multicast_id":3623757371013019441,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329804436710%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:23 
+ Array
+(
+    [0] => {"multicast_id":4302618767210941385,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329804637584%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:23 
+ Array
+(
+    [0] => {"multicast_id":3103842353358979289,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329804850814%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:23 
+ Array
+(
+    [0] => {"multicast_id":4440017228137416389,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329805078079%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:23 
+ Array
+(
+    [0] => {"multicast_id":8935773867499951109,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329805265777%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:24 
+ Array
+(
+    [0] => {"multicast_id":1901172789554437802,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:24 
+ Array
+(
+    [0] => {"multicast_id":1064538214448690761,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329805638578%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:24 
+ Array
+(
+    [0] => {"multicast_id":2254436097260532556,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329805841024%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:24 
+ Array
+(
+    [0] => {"multicast_id":8294204246935189878,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329806040633%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:24 
+ Array
+(
+    [0] => {"multicast_id":7035392293903579081,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329806236620%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:25 
+ Array
+(
+    [0] => {"multicast_id":6194068856464075685,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:25 
+ Array
+(
+    [0] => {"multicast_id":5237478103047256232,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:25 
+ Array
+(
+    [0] => {"multicast_id":5198144166579709442,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:25 
+ Array
+(
+    [0] => {"multicast_id":7201064634677186499,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:25 
+ Array
+(
+    [0] => {"multicast_id":6245570408410467331,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329807174851%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:25 
+ Array
+(
+    [0] => {"multicast_id":2014915854424078875,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329807386678%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:26 
+ Array
+(
+    [0] => {"multicast_id":6594287472010397297,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633329807628736%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:26 
+ Array
+(
+    [0] => {"multicast_id":7374309197344022400,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:26 
+ Array
+(
+    [0] => {"multicast_id":7280152565093003525,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-04 06:43:26 
+ Array
+(
+    [0] => {"multicast_id":379716971341564407,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:24:59 
+ Array
+(
+    [0] => {"multicast_id":5696462625380440300,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699501304408%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:24:59 
+ Array
+(
+    [0] => {"multicast_id":2436067002078911482,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699501511723%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:24:59 
+ Array
+(
+    [0] => {"multicast_id":540513677978565183,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699501714695%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:00 
+ Array
+(
+    [0] => {"multicast_id":4554761529636302723,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699502227869%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:00 
+ Array
+(
+    [0] => {"multicast_id":5189773647022296439,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:00 
+ Array
+(
+    [0] => {"multicast_id":7721998259766508913,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:01 
+ Array
+(
+    [0] => {"multicast_id":3266519348259003725,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:01 
+ Array
+(
+    [0] => {"multicast_id":7687984249133334002,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:01 
+ Array
+(
+    [0] => {"multicast_id":8643678567583568318,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:01 
+ Array
+(
+    [0] => {"multicast_id":2584251050670564688,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699503632381%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:01 
+ Array
+(
+    [0] => {"multicast_id":9086635167197850935,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:01 
+ Array
+(
+    [0] => {"multicast_id":8453321279207809359,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:02 
+ Array
+(
+    [0] => {"multicast_id":4661652101502477184,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:02 
+ Array
+(
+    [0] => {"multicast_id":1919638854666589452,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:02 
+ Array
+(
+    [0] => {"multicast_id":7339565107071948014,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:03 
+ Array
+(
+    [0] => {"multicast_id":6182900342251217442,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699505212711%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:03 
+ Array
+(
+    [0] => {"multicast_id":282708526818010219,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:03 
+ Array
+(
+    [0] => {"multicast_id":3554600677908600910,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:03 
+ Array
+(
+    [0] => {"multicast_id":1490762993894354279,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699505783475%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:04 
+ Array
+(
+    [0] => {"multicast_id":3446245748077348231,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699506022841%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:04 
+ Array
+(
+    [0] => {"multicast_id":962486014547102590,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699506256863%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:04 
+ Array
+(
+    [0] => {"multicast_id":8999499590381600741,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:04 
+ Array
+(
+    [0] => {"multicast_id":6538147053345157367,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:05 
+ Array
+(
+    [0] => {"multicast_id":505682540078914085,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699507177571%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:05 
+ Array
+(
+    [0] => {"multicast_id":7549737656717296634,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:05 
+ Array
+(
+    [0] => {"multicast_id":5498516929270925689,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699507921993%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:06 
+ Array
+(
+    [0] => {"multicast_id":5782052703543287128,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699508159774%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:06 
+ Array
+(
+    [0] => {"multicast_id":6775821495408646231,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699508334213%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:06 
+ Array
+(
+    [0] => {"multicast_id":1041151812538026113,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699508520350%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:06 
+ Array
+(
+    [0] => {"multicast_id":7847935650408730323,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:07 
+ Array
+(
+    [0] => {"multicast_id":486437556113944999,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:07 
+ Array
+(
+    [0] => {"multicast_id":3623450132145050523,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:07 
+ Array
+(
+    [0] => {"multicast_id":8277279933266671659,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:07 
+ Array
+(
+    [0] => {"multicast_id":8725146211691989183,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699509634369%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:07 
+ Array
+(
+    [0] => {"multicast_id":1598945848946102947,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699509806923%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:07 
+ Array
+(
+    [0] => {"multicast_id":4025480607053968125,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699509993991%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:08 
+ Array
+(
+    [0] => {"multicast_id":373578196780503647,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699510179319%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:08 
+ Array
+(
+    [0] => {"multicast_id":1963224536033159088,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699510366028%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:08 
+ Array
+(
+    [0] => {"multicast_id":5651986175468512273,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699510690043%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:09 
+ Array
+(
+    [0] => {"multicast_id":6363366402923819332,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699511038468%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:09 
+ Array
+(
+    [0] => {"multicast_id":109136608677643267,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:09 
+ Array
+(
+    [0] => {"multicast_id":7079833499678436765,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:09 
+ Array
+(
+    [0] => {"multicast_id":5279703082666592784,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699511609805%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:09 
+ Array
+(
+    [0] => {"multicast_id":2829242803107957556,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699511808862%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:09 
+ Array
+(
+    [0] => {"multicast_id":2293739481506273942,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699511993702%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:10 
+ Array
+(
+    [0] => {"multicast_id":7737579749798685509,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699512183481%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:10 
+ Array
+(
+    [0] => {"multicast_id":59628114021067155,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:10 
+ Array
+(
+    [0] => {"multicast_id":5769188655496616257,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:10 
+ Array
+(
+    [0] => {"multicast_id":8602539108488483840,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:10 
+ Array
+(
+    [0] => {"multicast_id":4888159631354782330,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699512898250%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:11 
+ Array
+(
+    [0] => {"multicast_id":3596901554909012171,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699513104202%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:11 
+ Array
+(
+    [0] => {"multicast_id":6445553292913704046,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699513315700%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:11 
+ Array
+(
+    [0] => {"multicast_id":4843419156081898636,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699513620713%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:11 
+ Array
+(
+    [0] => {"multicast_id":8732995814818513947,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699513811864%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:11 
+ Array
+(
+    [0] => {"multicast_id":5712036241487073344,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699513979915%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:12 
+ Array
+(
+    [0] => {"multicast_id":3508629420659637600,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:12 
+ Array
+(
+    [0] => {"multicast_id":4314393177913543202,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1633699514328338%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-08 13:25:12 
+ Array
+(
+    [0] => {"multicast_id":616921157867400920,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:50:59 
+ Array
+(
+    [0] => {"multicast_id":9012697400966403359,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537063098689%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:50:59 
+ Array
+(
+    [0] => {"multicast_id":2003835986583087385,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:50:59 
+ Array
+(
+    [0] => {"multicast_id":5133595502615480461,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537063461041%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:50:59 
+ Array
+(
+    [0] => {"multicast_id":6800611052499267898,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537063671411%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:00 
+ Array
+(
+    [0] => {"multicast_id":3232109666385549790,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:00 
+ Array
+(
+    [0] => {"multicast_id":8295043738837238995,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:00 
+ Array
+(
+    [0] => {"multicast_id":6255618878849719471,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:00 
+ Array
+(
+    [0] => {"multicast_id":2944071906571856750,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:00 
+ Array
+(
+    [0] => {"multicast_id":1339157673997128710,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:01 
+ Array
+(
+    [0] => {"multicast_id":2508159715917493442,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537064826310%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:01 
+ Array
+(
+    [0] => {"multicast_id":8725054453648672900,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:01 
+ Array
+(
+    [0] => {"multicast_id":1672935913926386425,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:01 
+ Array
+(
+    [0] => {"multicast_id":3953883374994832658,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:01 
+ Array
+(
+    [0] => {"multicast_id":6472545068837699753,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:02 
+ Array
+(
+    [0] => {"multicast_id":7504806906146293757,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:02 
+ Array
+(
+    [0] => {"multicast_id":2823525220160229940,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537065941153%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:02 
+ Array
+(
+    [0] => {"multicast_id":7025156158886416674,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:02 
+ Array
+(
+    [0] => {"multicast_id":761823423445515172,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:02 
+ Array
+(
+    [0] => {"multicast_id":5974369814426687425,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537066509274%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:03 
+ Array
+(
+    [0] => {"multicast_id":1459771085157939291,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537066721725%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:03 
+ Array
+(
+    [0] => {"multicast_id":2938941042418413283,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537066899665%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:03 
+ Array
+(
+    [0] => {"multicast_id":6051475303139921688,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:03 
+ Array
+(
+    [0] => {"multicast_id":1123843482083698124,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:03 
+ Array
+(
+    [0] => {"multicast_id":3183683644567444909,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537067425633%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:03 
+ Array
+(
+    [0] => {"multicast_id":6659456453029572034,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:04 
+ Array
+(
+    [0] => {"multicast_id":8478346495174738715,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537067819294%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:04 
+ Array
+(
+    [0] => {"multicast_id":7865269025574220505,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537068001386%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:04 
+ Array
+(
+    [0] => {"multicast_id":2152933299326544330,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537068194474%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:04 
+ Array
+(
+    [0] => {"multicast_id":3385058945996923672,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:04 
+ Array
+(
+    [0] => {"multicast_id":6822537827177223019,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537068576768%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:05 
+ Array
+(
+    [0] => {"multicast_id":8848146621420260418,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537068798994%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:05 
+ Array
+(
+    [0] => {"multicast_id":3747262747361755584,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537068976563%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:05 
+ Array
+(
+    [0] => {"multicast_id":3756863327528261570,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537069161972%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:05 
+ Array
+(
+    [0] => {"multicast_id":96913701648290751,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537069328741%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:05 
+ Array
+(
+    [0] => {"multicast_id":4988202564435384710,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:05 
+ Array
+(
+    [0] => {"multicast_id":4079469133683728633,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:06 
+ Array
+(
+    [0] => {"multicast_id":2065501680052077072,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:06 
+ Array
+(
+    [0] => {"multicast_id":2722314592939699581,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:06 
+ Array
+(
+    [0] => {"multicast_id":240230873908085653,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537070244643%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:06 
+ Array
+(
+    [0] => {"multicast_id":6756817954538355056,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537070450693%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:06 
+ Array
+(
+    [0] => {"multicast_id":3653917541959368518,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537070627243%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:07 
+ Array
+(
+    [0] => {"multicast_id":1572848493094509859,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537070826161%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:07 
+ Array
+(
+    [0] => {"multicast_id":1872088439391902300,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537071014313%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:07 
+ Array
+(
+    [0] => {"multicast_id":2620283587404852204,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537071198099%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:07 
+ Array
+(
+    [0] => {"multicast_id":1659361352288318438,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537071373161%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:07 
+ Array
+(
+    [0] => {"multicast_id":7349796535207784652,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:08 
+ Array
+(
+    [0] => {"multicast_id":4948493358077219347,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537071749117%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:08 
+ Array
+(
+    [0] => {"multicast_id":4478041496421901227,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537071947572%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:08 
+ Array
+(
+    [0] => {"multicast_id":1518437581023806926,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537072155626%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:08 
+ Array
+(
+    [0] => {"multicast_id":3880920487717639373,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537072351016%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:08 
+ Array
+(
+    [0] => {"multicast_id":7425003630251076851,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537072553899%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:09 
+ Array
+(
+    [0] => {"multicast_id":2040847166295824633,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:09 
+ Array
+(
+    [0] => {"multicast_id":4159461405050528165,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:09 
+ Array
+(
+    [0] => {"multicast_id":8468407813328435092,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:09 
+ Array
+(
+    [0] => {"multicast_id":3166307050439163074,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537073272952%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:09 
+ Array
+(
+    [0] => {"multicast_id":7091773916165372824,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537073460762%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:09 
+ Array
+(
+    [0] => {"multicast_id":6907457635115512122,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537073642652%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:10 
+ Array
+(
+    [0] => {"multicast_id":3047723354881862796,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:10 
+ Array
+(
+    [0] => {"multicast_id":2546288242589449424,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537074016467%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:10 
+ Array
+(
+    [0] => {"multicast_id":3516710051166757596,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537074191309%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:10 
+ Array
+(
+    [0] => {"multicast_id":5721274297452724939,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:10 
+ Array
+(
+    [0] => {"multicast_id":7679746784815177391,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537074560120%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:51:11 
+ Array
+(
+    [0] => {"multicast_id":4086499832668744797,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Hola Everybody in Fuerteventura!
+    [noti_message] => This is Varsha Testing
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:53 
+ Array
+(
+    [0] => {"multicast_id":8375756047270424273,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537176765696%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:53 
+ Array
+(
+    [0] => {"multicast_id":296392368969425167,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:53 
+ Array
+(
+    [0] => {"multicast_id":808384799558215771,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537177142381%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:53 
+ Array
+(
+    [0] => {"multicast_id":8821901582201269758,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537177350064%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:53 
+ Array
+(
+    [0] => {"multicast_id":4498198009225308980,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:54 
+ Array
+(
+    [0] => {"multicast_id":8322113719736685,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:54 
+ Array
+(
+    [0] => {"multicast_id":8017211020204767185,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:54 
+ Array
+(
+    [0] => {"multicast_id":6863051177426444971,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:54 
+ Array
+(
+    [0] => {"multicast_id":4134639569742948506,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:54 
+ Array
+(
+    [0] => {"multicast_id":1908093877235779219,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537178423961%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:54 
+ Array
+(
+    [0] => {"multicast_id":3066813247899372848,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:55 
+ Array
+(
+    [0] => {"multicast_id":650270877243504608,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:55 
+ Array
+(
+    [0] => {"multicast_id":3563362286521949416,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:55 
+ Array
+(
+    [0] => {"multicast_id":4176096446068559334,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:55 
+ Array
+(
+    [0] => {"multicast_id":4192848477207394791,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:55 
+ Array
+(
+    [0] => {"multicast_id":5799535447374414582,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537179493541%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:55 
+ Array
+(
+    [0] => {"multicast_id":625324766628089508,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:56 
+ Array
+(
+    [0] => {"multicast_id":7972273538537891795,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:56 
+ Array
+(
+    [0] => {"multicast_id":557197751114509652,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537180007138%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:56 
+ Array
+(
+    [0] => {"multicast_id":6052458452807950066,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537180209013%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:56 
+ Array
+(
+    [0] => {"multicast_id":1735436239701276918,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537180447521%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:56 
+ Array
+(
+    [0] => {"multicast_id":4794329153798314561,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:57 
+ Array
+(
+    [0] => {"multicast_id":7775000899239412448,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:57 
+ Array
+(
+    [0] => {"multicast_id":7280224995772583056,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537180984723%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:57 
+ Array
+(
+    [0] => {"multicast_id":7007335832408096841,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:57 
+ Array
+(
+    [0] => {"multicast_id":4375483541384347856,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537181341735%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:57 
+ Array
+(
+    [0] => {"multicast_id":2841610738593380897,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537181565399%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:58 
+ Array
+(
+    [0] => {"multicast_id":3391484005940746108,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537181755219%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:58 
+ Array
+(
+    [0] => {"multicast_id":7550710346882139887,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:58 
+ Array
+(
+    [0] => {"multicast_id":5980607762772201025,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537182128171%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:58 
+ Array
+(
+    [0] => {"multicast_id":2869694123309572404,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537182348591%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:58 
+ Array
+(
+    [0] => {"multicast_id":1010233948486986276,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537182534992%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:59 
+ Array
+(
+    [0] => {"multicast_id":3965212225864838032,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537182715867%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:59 
+ Array
+(
+    [0] => {"multicast_id":4000701861882156277,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537182897226%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:59 
+ Array
+(
+    [0] => {"multicast_id":7370942114727709022,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:59 
+ Array
+(
+    [0] => {"multicast_id":2673425489123763288,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:59 
+ Array
+(
+    [0] => {"multicast_id":4539199418301740534,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:52:59 
+ Array
+(
+    [0] => {"multicast_id":7772914050653085760,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:00 
+ Array
+(
+    [0] => {"multicast_id":6726747804824656392,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537183749708%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:00 
+ Array
+(
+    [0] => {"multicast_id":7166413283021369265,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537183945929%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:00 
+ Array
+(
+    [0] => {"multicast_id":1269346926795525000,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537184145155%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:00 
+ Array
+(
+    [0] => {"multicast_id":6675430647615933534,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537184328646%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:00 
+ Array
+(
+    [0] => {"multicast_id":6782787504476921423,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537184508683%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:00 
+ Array
+(
+    [0] => {"multicast_id":7715269121578173024,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537184708076%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:01 
+ Array
+(
+    [0] => {"multicast_id":1077316074548026730,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537184874995%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:01 
+ Array
+(
+    [0] => {"multicast_id":2834489644978558469,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:01 
+ Array
+(
+    [0] => {"multicast_id":7175449697079421343,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537185226249%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:01 
+ Array
+(
+    [0] => {"multicast_id":2447444874444176844,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537185417979%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:01 
+ Array
+(
+    [0] => {"multicast_id":8014015177720614762,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537185636651%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:02 
+ Array
+(
+    [0] => {"multicast_id":6111374368129409708,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537185839249%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:02 
+ Array
+(
+    [0] => {"multicast_id":1510772804211841649,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537186029560%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:02 
+ Array
+(
+    [0] => {"multicast_id":7276396387952257997,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:02 
+ Array
+(
+    [0] => {"multicast_id":921898163044969232,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:02 
+ Array
+(
+    [0] => {"multicast_id":4128962391624958825,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:03 
+ Array
+(
+    [0] => {"multicast_id":2453896015902894466,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537186722147%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:03 
+ Array
+(
+    [0] => {"multicast_id":1950062395350998898,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537186908922%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:03 
+ Array
+(
+    [0] => {"multicast_id":6403774249741730360,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537187101999%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:03 
+ Array
+(
+    [0] => {"multicast_id":3798855654477854062,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:03 
+ Array
+(
+    [0] => {"multicast_id":1627642374826743542,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537187450360%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:03 
+ Array
+(
+    [0] => {"multicast_id":1511146722420070064,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537187655336%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:04 
+ Array
+(
+    [0] => {"multicast_id":6147366230354891015,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:04 
+ Array
+(
+    [0] => {"multicast_id":1365092725206201307,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1635537188020362%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-10-29 19:53:04 
+ Array
+(
+    [0] => {"multicast_id":8941562135138381599,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => Launching soon!
+    [noti_message] => 🥙Testing Emojis🥂🥙😃
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:19 
+ Array
+(
+    [0] => {"multicast_id":3826410134325660828,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458501994882%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:19 
+ Array
+(
+    [0] => {"multicast_id":5049201086903493393,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:20 
+ Array
+(
+    [0] => {"multicast_id":6196420909989691284,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458502381960%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:20 
+ Array
+(
+    [0] => {"multicast_id":2042133502537365150,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458502584337%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:20 
+ Array
+(
+    [0] => {"multicast_id":1905441148400890281,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:20 
+ Array
+(
+    [0] => {"multicast_id":4531143363918086449,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:20 
+ Array
+(
+    [0] => {"multicast_id":7188224263904631799,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:21 
+ Array
+(
+    [0] => {"multicast_id":5550077446833330707,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:21 
+ Array
+(
+    [0] => {"multicast_id":6340845622428306099,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:21 
+ Array
+(
+    [0] => {"multicast_id":9093152154647913211,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458503698144%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:21 
+ Array
+(
+    [0] => {"multicast_id":939830974395921902,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:21 
+ Array
+(
+    [0] => {"multicast_id":8898418204239397475,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:22 
+ Array
+(
+    [0] => {"multicast_id":2981156366209227927,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:22 
+ Array
+(
+    [0] => {"multicast_id":4804758804449858092,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:22 
+ Array
+(
+    [0] => {"multicast_id":6442489867750016079,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:22 
+ Array
+(
+    [0] => {"multicast_id":4600272483825095232,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458504780850%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:22 
+ Array
+(
+    [0] => {"multicast_id":1554770642457615136,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:22 
+ Array
+(
+    [0] => {"multicast_id":7564139394343054917,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:23 
+ Array
+(
+    [0] => {"multicast_id":3162980834519594602,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458505307009%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:23 
+ Array
+(
+    [0] => {"multicast_id":5181299856526405105,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458505508156%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:23 
+ Array
+(
+    [0] => {"multicast_id":3295827153039051317,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458505688281%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:23 
+ Array
+(
+    [0] => {"multicast_id":3516988566464205233,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:23 
+ Array
+(
+    [0] => {"multicast_id":605647130755697168,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:24 
+ Array
+(
+    [0] => {"multicast_id":5158594321260928590,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458506216554%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:24 
+ Array
+(
+    [0] => {"multicast_id":3080659319799440633,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:24 
+ Array
+(
+    [0] => {"multicast_id":2793724354608356031,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458506596507%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:24 
+ Array
+(
+    [0] => {"multicast_id":224685388799752596,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458506821022%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:24 
+ Array
+(
+    [0] => {"multicast_id":7295986683390628418,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458507007200%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:24 
+ Array
+(
+    [0] => {"multicast_id":3803253856141132731,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:25 
+ Array
+(
+    [0] => {"multicast_id":6738778376658917040,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458507370532%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:25 
+ Array
+(
+    [0] => {"multicast_id":7702425109441860076,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458507565145%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:25 
+ Array
+(
+    [0] => {"multicast_id":3545811037717320403,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458507752943%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:25 
+ Array
+(
+    [0] => {"multicast_id":8395134624214739354,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458507934794%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:25 
+ Array
+(
+    [0] => {"multicast_id":8021250688919624936,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:26 
+ Array
+(
+    [0] => {"multicast_id":2838040692999930062,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:26 
+ Array
+(
+    [0] => {"multicast_id":1306319339487328889,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:26 
+ Array
+(
+    [0] => {"multicast_id":2062905315947799993,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:26 
+ Array
+(
+    [0] => {"multicast_id":2827395806726261753,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:26 
+ Array
+(
+    [0] => {"multicast_id":8123034330185599033,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458509024034%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:27 
+ Array
+(
+    [0] => {"multicast_id":7302949020667634520,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458509231512%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:27 
+ Array
+(
+    [0] => {"multicast_id":4661435724793666245,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458509444686%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:27 
+ Array
+(
+    [0] => {"multicast_id":7026848779506694648,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458509660828%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:27 
+ Array
+(
+    [0] => {"multicast_id":1308187145933122871,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458509866532%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:27 
+ Array
+(
+    [0] => {"multicast_id":3857508564022746157,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458510061449%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:28 
+ Array
+(
+    [0] => {"multicast_id":8934349983814030225,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458510254106%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:28 
+ Array
+(
+    [0] => {"multicast_id":2839625073396667609,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:28 
+ Array
+(
+    [0] => {"multicast_id":3356099244208001463,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458510604349%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:28 
+ Array
+(
+    [0] => {"multicast_id":7809160636211924408,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458510793911%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:28 
+ Array
+(
+    [0] => {"multicast_id":8774959894270779132,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458510984805%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:28 
+ Array
+(
+    [0] => {"multicast_id":7853014592092727995,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458511155982%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:29 
+ Array
+(
+    [0] => {"multicast_id":2908195727777796994,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458511351362%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:29 
+ Array
+(
+    [0] => {"multicast_id":2313329168859006060,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:29 
+ Array
+(
+    [0] => {"multicast_id":2709130977989575588,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:29 
+ Array
+(
+    [0] => {"multicast_id":2618018647225488713,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:29 
+ Array
+(
+    [0] => {"multicast_id":6610116556113307032,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:29 
+ Array
+(
+    [0] => {"multicast_id":355211295551320027,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458512205322%b50c4411f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:30 
+ Array
+(
+    [0] => {"multicast_id":1124721532552095077,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:30 
+ Array
+(
+    [0] => {"multicast_id":8238867436355202828,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:30 
+ Array
+(
+    [0] => {"multicast_id":7592553957609351754,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458512725467%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:30 
+ Array
+(
+    [0] => {"multicast_id":54492354076481616,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1636458512916259%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:30 
+ Array
+(
+    [0] => {"multicast_id":3798281070058718674,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:31 
+ Array
+(
+    [0] => {"multicast_id":7159879138212891467,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-11-09 11:48:31 
+ Array
+(
+    [0] => {"multicast_id":8371321361954830171,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => test
+    [noti_message] => test
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:28 
+ Array
+(
+    [0] => {"multicast_id":4481999403063767674,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:28 
+ Array
+(
+    [0] => {"multicast_id":2359601831755389660,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449251183083%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:28 
+ Array
+(
+    [0] => {"multicast_id":284566815423227891,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449251391159%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:28 
+ Array
+(
+    [0] => {"multicast_id":8983097486607344472,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:29 
+ Array
+(
+    [0] => {"multicast_id":3686437800392730762,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:29 
+ Array
+(
+    [0] => {"multicast_id":858081571687098737,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:29 
+ Array
+(
+    [0] => {"multicast_id":3343551302808799872,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:29 
+ Array
+(
+    [0] => {"multicast_id":3318241906389995402,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:29 
+ Array
+(
+    [0] => {"multicast_id":3895493677143314220,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449252455629%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:29 
+ Array
+(
+    [0] => {"multicast_id":1247889866306836848,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:30 
+ Array
+(
+    [0] => {"multicast_id":3989673890864642029,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:30 
+ Array
+(
+    [0] => {"multicast_id":1979755907366163847,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:30 
+ Array
+(
+    [0] => {"multicast_id":8291295576563421551,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:30 
+ Array
+(
+    [0] => {"multicast_id":117881348374736590,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:30 
+ Array
+(
+    [0] => {"multicast_id":2526094754635851255,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:31 
+ Array
+(
+    [0] => {"multicast_id":1204708210329777968,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:31 
+ Array
+(
+    [0] => {"multicast_id":4349947395931608639,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:31 
+ Array
+(
+    [0] => {"multicast_id":3506058291580241401,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449254041308%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:31 
+ Array
+(
+    [0] => {"multicast_id":3968716766837507006,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449254249774%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:31 
+ Array
+(
+    [0] => {"multicast_id":5959001496276574677,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449254433751%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:31 
+ Array
+(
+    [0] => {"multicast_id":9046891470592188560,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:32 
+ Array
+(
+    [0] => {"multicast_id":2298897960126178390,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:32 
+ Array
+(
+    [0] => {"multicast_id":4745782067212288823,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449254938310%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:32 
+ Array
+(
+    [0] => {"multicast_id":1844543640753033279,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:32 
+ Array
+(
+    [0] => {"multicast_id":4291094211508317531,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449255319282%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:32 
+ Array
+(
+    [0] => {"multicast_id":8251531572123500392,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449255520742%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:33 
+ Array
+(
+    [0] => {"multicast_id":1843840521186790167,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449255737573%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:33 
+ Array
+(
+    [0] => {"multicast_id":7214918277151814000,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:33 
+ Array
+(
+    [0] => {"multicast_id":54359395048769141,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449256111187%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:33 
+ Array
+(
+    [0] => {"multicast_id":5041251546798921303,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449256288691%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:33 
+ Array
+(
+    [0] => {"multicast_id":1702082782115683333,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449256468833%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:34 
+ Array
+(
+    [0] => {"multicast_id":8116503748882243921,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449256669274%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:34 
+ Array
+(
+    [0] => {"multicast_id":7870292523054656137,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:34 
+ Array
+(
+    [0] => {"multicast_id":5460498467136108589,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449257037701%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:34 
+ Array
+(
+    [0] => {"multicast_id":4362264192618366297,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:34 
+ Array
+(
+    [0] => {"multicast_id":8101650494255329240,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:34 
+ Array
+(
+    [0] => {"multicast_id":5210600664824752610,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:35 
+ Array
+(
+    [0] => {"multicast_id":6941535504220411620,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:35 
+ Array
+(
+    [0] => {"multicast_id":2382594572428396947,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:35 
+ Array
+(
+    [0] => {"multicast_id":1439004704094021137,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:35 
+ Array
+(
+    [0] => {"multicast_id":4323593887096836605,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:35 
+ Array
+(
+    [0] => {"multicast_id":2893811536076798576,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:36 
+ Array
+(
+    [0] => {"multicast_id":7654688721292384891,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:36 
+ Array
+(
+    [0] => {"multicast_id":512923110409719843,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449258915129%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:36 
+ Array
+(
+    [0] => {"multicast_id":5016966233236958738,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:36 
+ Array
+(
+    [0] => {"multicast_id":2130565732008142822,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:36 
+ Array
+(
+    [0] => {"multicast_id":8100857430218460855,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:37 
+ Array
+(
+    [0] => {"multicast_id":6862423058297812752,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449259697821%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:37 
+ Array
+(
+    [0] => {"multicast_id":3449705193251011171,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449259883568%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:37 
+ Array
+(
+    [0] => {"multicast_id":8044044939789634673,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449260075377%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:37 
+ Array
+(
+    [0] => {"multicast_id":7809911484307505393,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449260284451%177d6376f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:37 
+ Array
+(
+    [0] => {"multicast_id":7294829051408894691,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449260475527%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:38 
+ Array
+(
+    [0] => {"multicast_id":4273408246624984449,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449260662386%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:38 
+ Array
+(
+    [0] => {"multicast_id":2191619221439200806,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:38 
+ Array
+(
+    [0] => {"multicast_id":509866298040915591,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:38 
+ Array
+(
+    [0] => {"multicast_id":5145726790361721038,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:38 
+ Array
+(
+    [0] => {"multicast_id":9118332508513969759,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:38 
+ Array
+(
+    [0] => {"multicast_id":8549558116101172419,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449261599038%b50c4411f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:39 
+ Array
+(
+    [0] => {"multicast_id":1233346402186968673,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:39 
+ Array
+(
+    [0] => {"multicast_id":8422161149800891657,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:39 
+ Array
+(
+    [0] => {"multicast_id":1064783561851277641,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449262146509%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:39 
+ Array
+(
+    [0] => {"multicast_id":1194397724826778145,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449262320493%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:39 
+ Array
+(
+    [0] => {"multicast_id":3637328669820894307,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:40 
+ Array
+(
+    [0] => {"multicast_id":2551924294587865552,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1638449262695577%60add0a2f9fd7ecd"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:40 
+ Array
+(
+    [0] => {"multicast_id":298038929005754914,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
+---------------------------------------------------
+ 2021-12-02 13:47:40 
+ Array
+(
+    [0] => {"multicast_id":4260032639553509030,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+)
+Array
+(
+    [noti_title] => dd
+    [noti_message] => dd
+    [btn_addnoti] => 
+)
